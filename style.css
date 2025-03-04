@@ -68,13 +68,13 @@ select {
     font-weight: 400;
     font-size: 16px;
     list-style-image: url(./assets/images/solar-map-arrow-up-bold.svg);
-    padding-left: 20px;
+    padding: 0px 20px;
 }
 
 .books-list {
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0px 20px;
 }
 
 .label {
@@ -117,7 +117,7 @@ th, td {
     width: 55px;
     height: 40px;
     border: 1px solid #95a1bb;
-    padding: 0 15px;
+    padding: 12px 15px;
 }
 
 footer {
